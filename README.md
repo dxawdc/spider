@@ -79,7 +79,7 @@ Python爬虫案例分享，持续更新中...
 3. [扒一扒网易云课堂python课程，发现还是有不少可以白嫖的免费好资源](https://mp.weixin.qq.com/s/wxmvsNRSjjdzlfE8FBAH1Q)
 4. [『网络爬虫』自从学会了python，斗图就没怕过谁！！](https://mp.weixin.qq.com/s/3U4UOC52ZdEY3NFL8Djcmg)
 
-![可以叫我才哥](https://gitee.com/dxawdc/pic/raw/master/null/20211102203938.jpg)
+<img src="https://gitee.com/dxawdc/pic/raw/master/null/20211102203938.jpg" alt="可以叫我才哥" style="zoom: 50%;" />
 
-![才哥微信](https://gitee.com/dxawdc/pic/raw/master/null/20211102204027.gif)
+<img src="https://gitee.com/dxawdc/pic/raw/master/null/20211102203938.jpg" alt="可以叫我才哥" style="zoom: 50%;" />
 
