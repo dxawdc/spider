@@ -7,8 +7,8 @@ Python爬虫案例分享，持续更新中...
 
 本项目将主要用于展示我做过的各种爬虫案例，如果对你有所帮助，还希望你能扫码关注我哦！同时，也欢迎添加我好友，一起交流学习哈~
 
-![公众号](https://user-images.githubusercontent.com/48904037/139850242-3d446522-7daa-4709-b12c-280bf0898b04.jpg)
 
+<img src="https://user-images.githubusercontent.com/48904037/139850242-3d446522-7daa-4709-b12c-280bf0898b04.jpg" width = "200" height = "200" alt="" align=center />
 
 - **美团**
 
@@ -79,7 +79,7 @@ Python爬虫案例分享，持续更新中...
 3. [扒一扒网易云课堂python课程，发现还是有不少可以白嫖的免费好资源](https://mp.weixin.qq.com/s/wxmvsNRSjjdzlfE8FBAH1Q)
 4. [『网络爬虫』自从学会了python，斗图就没怕过谁！！](https://mp.weixin.qq.com/s/3U4UOC52ZdEY3NFL8Djcmg)
 
-<img src="https://gitee.com/dxawdc/pic/raw/master/null/20211102203938.jpg" alt="可以叫我才哥" style="zoom: 33%;" />
+<img src="https://gitee.com/dxawdc/pic/raw/master/null/20211102203938.jpg" alt="可以叫我才哥" width = "450" height = "250" alt="" align=center />
 
-<img src="https://gitee.com/dxawdc/pic/raw/master/null/20211102204027.gif" alt="才哥微信" style="zoom:33%;" />
+<img src="https://gitee.com/dxawdc/pic/raw/master/null/20211102204027.gif" alt="才哥微信" width = "450" height = "250" alt="" align=center />
 
