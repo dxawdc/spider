@@ -3,7 +3,7 @@ Python爬虫案例分享，持续更新中...
 
 大家好，我是才哥。
 
-目前是一枚资深的游戏运营，在一家互联网游戏公司负责一款游戏项目的整体运营工作。为了让工作更加轻松，我**从零开始自学**`Python`，获益颇多。目前独立运营的公众号：**可以叫我才哥**，已经累积`120`多篇原创，记录了我的`学习成果`以及**Python相关各种实战案例**。
+目前是一枚资深的游戏运营，在一家互联网游戏公司负责一款游戏项目的整体运营工作。为了让工作更加轻松，我**从零开始自学**`Python`，获益颇多。目前独立运营的公众号：**可以叫我才哥**，已经累积`130`多篇原创，记录了我的`学习成果`以及**Python相关各种实战案例**。
 
 本项目将主要用于展示我做过的各种爬虫案例，如果对你有所帮助，还希望你能扫码关注我哦！同时，也欢迎添加我好友，一起交流学习哈~
 
@@ -78,6 +78,7 @@ Python爬虫案例分享，持续更新中...
 2. [菜比肉贵？用Python采集蔬菜与肉类商品历史价格，带你了解了解~](https://mp.weixin.qq.com/s/4AQlHuJ8khAc4bEtkoaPqA)
 3. [扒一扒网易云课堂python课程，发现还是有不少可以白嫖的免费好资源](https://mp.weixin.qq.com/s/wxmvsNRSjjdzlfE8FBAH1Q)
 4. [『网络爬虫』自从学会了python，斗图就没怕过谁！！](https://mp.weixin.qq.com/s/3U4UOC52ZdEY3NFL8Djcmg)
+5. [你知道海底捞在全国有多少家店吗？](https://mp.weixin.qq.com/s/62fOJwL8nlUv5QDYOw3CmA)
 
 <img src="https://gitee.com/dxawdc/pic/raw/master/null/20211102203938.jpg" alt="可以叫我才哥" width = "450" height = "250" alt="" align=center />
 
